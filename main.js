@@ -1,4 +1,4 @@
-const elementComparsa = document.querySelector("fa-bars");
+const elementComparsa = document.querySelector(".fa-bars");
 const elementScomparsa = document.querySelector(".close");
 const elementHamburger = document.querySelector(".hamburger-menu");
 
